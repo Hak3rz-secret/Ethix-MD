@@ -12,7 +12,7 @@ services:
       - key: SESSION_ID
         sync: false
       - key: STATUS_VIEW_SEEN
-        value: true
+        value: false
       - key: MODE
         value: public
       - key: AUTO_REACT
